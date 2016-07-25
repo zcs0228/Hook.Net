@@ -1,0 +1,5 @@
+E:\zcsgit\Hook.Net\Hook.Net\bin\Debug\Hook.Net.dll
+E:\zcsgit\Hook.Net\Hook.Net\bin\Debug\Hook.Net.pdb
+E:\zcsgit\Hook.Net\Hook.Net\obj\Debug\Hook.Net.csprojResolveAssemblyReference.cache
+E:\zcsgit\Hook.Net\Hook.Net\obj\Debug\Hook.Net.dll
+E:\zcsgit\Hook.Net\Hook.Net\obj\Debug\Hook.Net.pdb

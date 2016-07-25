@@ -1,0 +1,11 @@
+E:\zcsgit\Hook.Net\ChangeKeys\bin\Debug\ChangeKeys.exe.config
+E:\zcsgit\Hook.Net\ChangeKeys\bin\Debug\ChangeKeys.exe
+E:\zcsgit\Hook.Net\ChangeKeys\bin\Debug\ChangeKeys.pdb
+E:\zcsgit\Hook.Net\ChangeKeys\obj\Debug\ChangeKeys.csprojResolveAssemblyReference.cache
+E:\zcsgit\Hook.Net\ChangeKeys\obj\Debug\ChangeKeys.Form1.resources
+E:\zcsgit\Hook.Net\ChangeKeys\obj\Debug\ChangeKeys.Properties.Resources.resources
+E:\zcsgit\Hook.Net\ChangeKeys\obj\Debug\ChangeKeys.csproj.GenerateResource.Cache
+E:\zcsgit\Hook.Net\ChangeKeys\obj\Debug\ChangeKeys.exe
+E:\zcsgit\Hook.Net\ChangeKeys\obj\Debug\ChangeKeys.pdb
+E:\zcsgit\Hook.Net\ChangeKeys\bin\Debug\Hook.Net.dll
+E:\zcsgit\Hook.Net\ChangeKeys\bin\Debug\Hook.Net.pdb
